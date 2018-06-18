@@ -1,0 +1,6 @@
+name: ChatUX
+version: @version@
+main: me.faizaand.chatux.ChatUXPlugin
+authors: [faizaand]
+description: A chat user experience library to help developers build richer chat interfaces for their plugins.
+website: https://faizaand.github.io/chatux
